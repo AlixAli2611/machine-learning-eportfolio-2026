@@ -1,25 +1,46 @@
-# Machine Learning e-portfolio — Alixandria Ali
+# Machine Learning E-Portfolio
 
-A static, accessible GitHub Pages site. Open `index.html` locally to review.
+**Alixandria Ali**  
+MSc Artificial Intelligence | University of Essex Online  
+Module: Machine Learning | 2026
 
-## Publish safely
-1. Review the first-person reflection and unit learning entries for accuracy, particularly peer discussion reading and retrospective learning notes.
-2. Confirm you have permission to post the team report, feedback, meeting notes, and team Trello link publicly. If not, remove those items from `evidence/` and the corresponding site links before publication.
-3. Create a dedicated repository on **your personal academic GitHub account** (not a work organisation). Upload the contents of this folder to the repository root.
-4. On GitHub go to **Settings → Pages → Build and deployment → Deploy from a branch**; choose the submission branch and `/ (root)`.
-5. Test the published URL, and add it to the header of the separate reflection submitted to the portal.
-6. Create/choose the submission branch as directed by Essex; ensure you do not commit changes to that branch after the deadline.
+## Portfolio Overview
 
-The final reflective draft is in `Machine Learning Reflection - Alixandria Ali.docx` and within the site. Unit 6 and Unit 11 are separate assignments, not proposal/revision stages of one project. Video omitted to keep repository manageable.
+This e-portfolio documents my learning and practical work throughout the Machine Learning module at the University of Essex Online. It brings together technical applications, learning reflections, project evaluations and evidence of collaboration.
 
+The portfolio covers supervised and unsupervised learning, data preparation, regression, clustering, neural networks, model evaluation, explainability and ethical considerations.
 
-## Evidence provenance
-The learning journal has 12 entries, using extracts from the original Unit 6 group report and Unit 11 individual presentation. An image of a group-report figure belongs to the group submission; the site identifies group authorship and does not claim every figure as individual work. Unit 5's Jaccard and Unit 9's CNN activity are *not* misrepresented as completed exercises.
+## Assessed Projects
 
-## Publication checklist
-1. Review first-person reflection and references for accuracy.
-2. Review group-publication permissions before sharing team work on a public site.
-3. Upload contents (not the enclosing folder) to the personal GitHub repository.
-4. Configure Settings > Pages to publish the selected source branch and /(root).
-5. Confirm live URL, then insert it into the reflection Word/PDF header.
-6. Follow Essex's instruction to finalise the submission branch before the deadline.
+### Unit 6: Airbnb NYC Market Segmentation and Price Prediction
+
+For the group development project, our team analysed the 2019 New York City Airbnb dataset using regression and clustering techniques.
+
+We compared several regression approaches and used K-Prototypes clustering to identify market segments. The analysis examined how listing characteristics, including room type and location, related to pricing.
+
+My individual contributions included project coordination, preparing guidance for the report sections, recording meeting notes, supporting the team, producing two graphs and assembling the final report.
+
+### Unit 11: Comparative Intelligence and Ethics in Machine Learning Systems
+
+For my individual assessment, I used the MovieLens 100K dataset to compare classical matrix factorisation with a deep neural recommendation model.
+
+The project involved data analysis, model training, five-fold validation, performance evaluation using RMSE, MAE and NDCG@10, subgroup error analysis and SHAP explanations.
+
+I also examined privacy, potential bias, model limitations and the considerations involved in deploying a recommendation system.
+
+## Portfolio Contents
+
+- **Learning Journey:** Learning across Units 1-12, supported by examples from my assessed work.
+- **Technical Projects:** The Airbnb and MovieLens projects, including methodology, results and limitations.
+- **Project Evaluation:** A comparison of the approaches, decisions and learning from Units 6 and 11.
+- **Collaboration:** My contributions to the group project and reflection on teamwork and feedback.
+- **Critical Reflection:** My final reflection on technical learning, professional judgement and personal development.
+- **References:** Academic sources and technical documentation supporting the portfolio.
+
+## E-Portfolio Website
+
+[View the Machine Learning E-Portfolio](https://alixali2611.github.io/machine-learning-eportfolio-2026/)
+
+## Academic Context
+
+The work presented in this portfolio was completed as part of the MSc Artificial Intelligence programme at the University of Essex Online. Group-produced material is identified separately from my individual work, and the portfolio draws on the original assessed submissions and supporting evidence.
